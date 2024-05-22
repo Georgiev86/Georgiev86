@@ -1,16 +1,37 @@
 ### Hi there 👋
 
-<!--
-**Georgiev86/Georgiev86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Dimitar Georgiev! 👋
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on Freelance in Help A Paw and Podkrepi.bg
-- 🌱 I’m currently learning DevOps and QA Manual
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: enail : dimitar.georgiev86@yahoo.com and linkedin.com/in/dimitar-georgiev-8425b5228
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a passionate developer with experience in a variety of technologies including React, Laravel, PostgreSQL, ExtJS, and manual QA. I love creating efficient and scalable web applications and I am always eager to learn new tools and technologies.
+
+## Tech Stack
+
+- **Frontend:**
+  - React
+  - ExtJS
+  - JavaScript
+
+- **Backend:**
+  - Laravel
+  - Node.js
+
+- **Database:**
+  - PostgreSQL
+  - MySQL
+
+- **Quality Assurance:**
+  - Manual Testing
+
+## Projects
+
+
+## Contact Me
+
+- LinkedIn: https://www.linkedin.com/in/dimitar-georgiev-8425b5228/
+- 
+- Email :dimitar.georgiev86@yahoo.com
+
+
+
